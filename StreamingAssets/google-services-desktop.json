@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986032722096",
+    "project_id": "war-drone-3d---aerial-strike",
+    "storage_bucket": "war-drone-3d---aerial-strike.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986032722096:android:7635e591b707eb5209ab75",
+        "android_client_info": {
+          "package_name": "com.genigames.drone.attack.war.strike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrtY79mk8qxwO976I38cP1ECXwncEevo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
